@@ -1,0 +1,5 @@
+A extensão de arquivo ".a" normalmente é usada para arquivos de biblioteca estática, e não está associada a uma linguagem de programação específica.
+
+Uma biblioteca estática é um arquivo que contém código compilado de funções ou rotinas usadas em um programa. Em vez de ter o código da biblioteca incorporado no executável final, o programa usa as funções da biblioteca que estão armazenadas no arquivo ".a" correspondente durante a fase de ligação.
+
+Note que a extensão ".a" também pode ser usada para outros fins em diferentes contextos, e esses usos podem estar associados a diferentes linguagens de programação. No entanto, em geral, a extensão ".a" é usada principalmente para bibliotecas estáticas.
